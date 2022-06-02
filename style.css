@@ -1,0 +1,26 @@
+th,
+td {
+  /* border: 1px solid black; */
+  padding: 8px;
+  text-align: center;
+  /* border-collapse: collapse; */
+  background: gray;
+}
+table {
+  border: 1px solid black;
+  width: 100%;
+  padding: 3px;
+}
+#total,
+#stu,
+#sub,
+#sn {
+  background: mediumaquamarine;
+}
+#maths,
+#eng,
+#bio,
+#chem,
+#phy {
+  background: burlywood;
+}
